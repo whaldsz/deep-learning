@@ -1,6 +1,6 @@
 # deep-learning
 
-This project explores learning rate for deep learning.
+This project contains the simulation results and source codes for the paper "Accurate Prediction of Chronic Diseases Using Deep Learning Algorithms".
 
 # Dataset
 
