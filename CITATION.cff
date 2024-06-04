@@ -1,9 +1,14 @@
-@software{Deep_web_learning,
-  author = {Agustin, Oliver, Cordova, Ronald},
-  doi = {},
-  month = {06},
-  title = {{Deep Web Learning}},
-  url = {https://github.com/whaldsz/deep-learning},
-  version = {1.0.0},
-  year = {2022}
-}
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Agustin"
+  given-names: "Oliver"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Cordova"
+  given-names: "Ronald"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Disease Prediction Deep Web Learning"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-06-01
+url: "https://github.com/whaldsz/deep-learning"
